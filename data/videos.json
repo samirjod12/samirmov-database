@@ -2,17 +2,19 @@
 {
   "app": "SamirMovies",
   "version": 2,
-  "lastUpdated": "2026-11-11T12:00:00Z",
+  "lastUpdated": "2026-11-12T08:00:00Z",
   "videos": [
     {
       "id": "movie-001",
       "title": "Project Hail Mary",
-      "description": "📖 Storyline
-Science teacher Ryland Grace wakes up alone on a spaceship light-years from Earth. As his memory returns, he uncovers a mission to stop a mysterious substance killing the sun, and save Earth. An unexpected friendship may be the key.",
+      "description": "📖 Storyline\nScience teacher Ryland Grace wakes up alone on a spaceship light-years from Earth. As his memory returns, he uncovers a mission to stop a mysterious substance killing the sun, and save Earth. An unexpected friendship may be the key.",
       "category": "Sci-fi",
       "thumbnail": "https://image.tmdb.org/t/p/original/gK2Qp7XywbzdIFNSPavEWlqw1DA.jpg",
-      "url": "https://fsldownload.com/p/s9lSAY0MzTb9NZY1.CYa0AP7o0p6ZZyiXTKRPsZ2h5oXDBVuyo0QXVw3jSl3omoy9D_0NUB-8CpRpGnC5zVAxodyM5-B90kgOi-be7Mc2Gl6q0O3pV2mFkteVrdQswoNkEPb22JNG-nh36D5qbqMwFRwv3tGZkMRMhoZgfTS6nea6rzkUurmLIN4JhI6yed2pOBFqSt0_w1W74WmxEe5zZ-418xgo67nq9sQ7R9O9So8pLmKhODDPR7r24UA_dkpFoJdN4T0zR6BfwPNwbByDSgTQYh4IlKEm6ZLBAcNcMBRMaYYZHtCDjKWpaDY4-_KGUcgtA_De62W8DDvffUJ2txC0_6_WNJlaFpeWMjokANKdAmU.J_foZ6iEkBGU1S1x9S5uyw",
-      "type": "mp4",
+      "url": "https://8330eb239b8516a8e389893f23dcdc32.r2.cloudflarestorage.com/hub/a4322292bdaa3bde6a39338a29e847c7?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0d96666b83063f3509c1a15116e8d406%2F20261111%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261111T184348Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22Project%20Hail%20Mary%20%282026%29%202160p%20iT%20WEB-DL%20DV%20HDR%2010bit%20HEVC%20.Hindi-Tamil-Telugu%20YTM%20DDP%205.1%20%2B%20English%20DDPA%205.1.%20x265%20MoviesDrives.CV.mkv%22&X-Amz-Signature=ee27dc7be53dbc1e396f0ef772725b1a758101f93f291d7e14ff789415c5d383",
+      "type": "hls",
+      "streamMode": "adaptive",
+      "sources": [],
+      "fallbackUrl": "https://fsldownload.com/p/s9lSAY0MzTb9NZY1.CYa0AP7o0p6ZZyiXTKRPsZ2h5oXDBVuyo0QXVw3jSl3omoy9D_0NUB-8CpRpGnC5zVAxodyM5-B90kgOi-be7Mc2Gl6q0O3pV2mFkteVrdQswoNkEPb22JNG-nh36D5qbqMwFRwv3tGZkMRMhoZgfTS6nea6rzkUurmLIN4JhI6yed2pOBFqSt0_w1W74WmxEe5zZ-418xgo67nq9sQ7R9O9So8pLmKhODDPR7r24UA_dkpFoJdN4T0zR6BfwPNwbByDSgTQYh4IlKEm6ZLBAcNcMBRMaYYZHtCDjKWpaDY4-_KGUcgtA_De62W8DDvffUJ2txC0_6_WNJlaFpeWMjokANKdAmU.J_foZ6iEkBGU1S1x9S5uyw",
       "duration": "02:36:22",
       "year": 2026,
       "featured": true,
