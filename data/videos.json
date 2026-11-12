@@ -27,7 +27,7 @@
       "category": "Sci-fi",
       "thumbnail": "https://image.tmdb.org/t/p/original/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
       "url": "https://cdn30092.salov447hev.com/stream2/i-arch-400/e5425e138ad2559dbf87f8b9c50ee739/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2pFVOxmTqpkaO1WSzoVbVBjWHV1dNpXTykleG1WTqVkeZ1WW3l1VFNjTtVVP:1794470235:113.21.229.26:813bbd4101319f01eb64f2d70c2b24ada8dc78a80e641f696eb42c56306aa9af:=0EVFpHTqlEeMpWS590U0knTn1TP/index.m3u8",
-      "type": "Dash",
+      "type": "Hls",
       "duration": "02:49:04",
       "year": 2014,
       "featured": true,
