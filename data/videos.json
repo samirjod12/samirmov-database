@@ -70,19 +70,19 @@
     },
     {
       "id": "movie-005",
-      "title": "Eyes Wide Shut",
-      "description": "📖 Storyline After Dr. Bill Harford's wife, Alice, admits to having sexual fantasies about a man she met, Bill becomes obsessed with having a sexual encounter. He discovers an underground sexual group and attends one of their meetings -- and quickly discovers that he is in over his head.",
-      "category": "Other",
-      "thumbnail": "https://image.tmdb.org/t/p/original/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg",
-      "url": "https://999c8bfadce536bf3068e488c127691c.r2.cloudflarestorage.com/movielinkbd/media/b4ihK6pF/stream.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a42b844b9f9d69b522136d088cb62f8d%2F20261112%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261112T120000Z&X-Amz-Expires=172800&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22MovieLinkBD.com%20-%20Eyes.Wide.Shut.1999.720p.English.AAC.BluRay.h264.ESub.mp4%22%3B%20filename%2A%3DUTF-8%27%27MovieLinkBD.com%2520-%2520Eyes.Wide.Shut.1999.720p.English.AAC.BluRay.h264.ESub.mp4&X-Amz-Signature=92373845f8e65e1025e714f28de389a6a0ffc44bd6005ad6b76f9fe6765ff083",
+      "title": "Avengers: Endgame",
+      "description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+      "category": "Marvel",
+      "thumbnail": "https://www.imdb.com/title/tt4154796/mediaviewer/rm2775147008/?ref_=tt_ov_i",
+      "url": "https://video-downloads.googleusercontent.com/ADGPM2kk_t5Y9G8wzqDHGMQmFZEzZhKPHgi7CDhb5X4Vr166dB8sD_kPQYB-JQn7IysZPkFwRz8XhsKAjYJ65dBWM6gPe_octaR2qg-2itrca4Q9BsmlEwqFT1p9LuDv48yBDOkEA8vpzzgWRZ2a2F1KcqUkH6jpJ3t7XZcBled8fEz-j_KRiD97KzCnt2hjv3hDmC60URTsUDnPOTzGH0BBrshkNkmiY7YUtBAPW6yu9fJgybbRcVo47yeQym7cTAWpMNgKiyHLBbWECRIdOFaTmon2vZhyRA",
       "type": "mp4",
-      "duration": "02:39:01",
-      "year": 1999,
+      "duration": "03:01:00",
+      "year": 2019,
       "featured": false,
       "published": true,
       "order": 5,
-      "tags": ["Others"],
-      "downloadUrl": "https://999c8bfadce536bf3068e488c127691c.r2.cloudflarestorage.com/movielinkbd/media/b4ihK6pF/stream.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a42b844b9f9d69b522136d088cb62f8d%2F20261112%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261112T120000Z&X-Amz-Expires=172800&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22MovieLinkBD.com%20-%20Eyes.Wide.Shut.1999.720p.English.AAC.BluRay.h264.ESub.mp4%22%3B%20filename%2A%3DUTF-8%27%27MovieLinkBD.com%2520-%2520Eyes.Wide.Shut.1999.720p.English.AAC.BluRay.h264.ESub.mp4&X-Amz-Signature=92373845f8e65e1025e714f28de389a6a0ffc44bd6005ad6b76f9fe6765ff083"
+      "tags": ["Marvel"],
+      "downloadUrl": "https://video-downloads.googleusercontent.com/ADGPM2kk_t5Y9G8wzqDHGMQmFZEzZhKPHgi7CDhb5X4Vr166dB8sD_kPQYB-JQn7IysZPkFwRz8XhsKAjYJ65dBWM6gPe_octaR2qg-2itrca4Q9BsmlEwqFT1p9LuDv48yBDOkEA8vpzzgWRZ2a2F1KcqUkH6jpJ3t7XZcBled8fEz-j_KRiD97KzCnt2hjv3hDmC60URTsUDnPOTzGH0BBrshkNkmiY7YUtBAPW6yu9fJgybbRcVo47yeQym7cTAWpMNgKiyHLBbWECRIdOFaTmon2vZhyRA"
     },
     {
       "id": "movie-000",
