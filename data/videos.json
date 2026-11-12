@@ -72,6 +72,7 @@
       "id": "movie-005",
       "title": "Eyes Wide Shut",
       "description": "📖 Storyline After Dr. Bill Harford's wife, Alice, admits to having sexual fantasies about a man she met, Bill becomes obsessed with having a sexual encounter. He discovers an underground sexual group and attends one of their meetings -- and quickly discovers that he is in over his head.",
+      "category": "Other",
       "thumbnail": "https://image.tmdb.org/t/p/original/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg",
       "url": "https://999c8bfadce536bf3068e488c127691c.r2.cloudflarestorage.com/movielinkbd/media/b4ihK6pF/stream.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a42b844b9f9d69b522136d088cb62f8d%2F20261112%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261112T120000Z&X-Amz-Expires=172800&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22MovieLinkBD.com%20-%20Eyes.Wide.Shut.1999.720p.English.AAC.BluRay.h264.ESub.mp4%22%3B%20filename%2A%3DUTF-8%27%27MovieLinkBD.com%2520-%2520Eyes.Wide.Shut.1999.720p.English.AAC.BluRay.h264.ESub.mp4&X-Amz-Signature=92373845f8e65e1025e714f28de389a6a0ffc44bd6005ad6b76f9fe6765ff083",
       "type": "mp4",
@@ -82,26 +83,6 @@
       "order": 5,
       "tags": ["Others"],
       "downloadUrl": "https://999c8bfadce536bf3068e488c127691c.r2.cloudflarestorage.com/movielinkbd/media/b4ihK6pF/stream.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a42b844b9f9d69b522136d088cb62f8d%2F20261112%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261112T120000Z&X-Amz-Expires=172800&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22MovieLinkBD.com%20-%20Eyes.Wide.Shut.1999.720p.English.AAC.BluRay.h264.ESub.mp4%22%3B%20filename%2A%3DUTF-8%27%27MovieLinkBD.com%2520-%2520Eyes.Wide.Shut.1999.720p.English.AAC.BluRay.h264.ESub.mp4&X-Amz-Signature=92373845f8e65e1025e714f28de389a6a0ffc44bd6005ad6b76f9fe6765ff083"
-    },
-    {
-      "id": "movie-006",
-      "title": "
-لَا تَحْزَنْ إِنَّ اللَّهَ مَعَنَا",
-      "description": "قران كريم بدون مؤثرات مع صوت مطر خفيف
-اسم القارئ : عمر ضياء الدين 
-سورة النور 
-
-القرآن، المصحف، تلاوة، مشاري العفاسي، ياسر الدوسري، آيات قرآنية، تلاوات خاشعة، القرآن الكريم، السكينة، الراحة، جنة، ترتيل، تجويد، تلاوة مؤثرة، ختمة قرآن، روحانية، راحة نفسية، صوت جميل، ترتيل القرآن، الإيمان، الذكر الحكيم، أصوات قرآنية، قراء القرآن، تلاوة السكون، القرآن الكريم بصوت العفاسي، تلاوة ياسر الدوسري، آيات من الجنة، تلاوة هادئة، السكينة في القرآن، تلاوات روحانية، خشوع القلب، صوت القرآن، راحة الروح، الجنة في القرآن، طمأنينة القرآن.",
-      "thumbnail": "",
-      "url": "<iframe width="560" height="315" src="https://www.youtube.com/embed/4aCi-5T5Roc?si=IK3cBMbkpdn2UC_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
-      "type": "mp4",
-      "duration": "02:39:01",
-      "year": 1999,
-      "featured": false,
-      "published": true,
-      "order": 6,
-      "tags": ["Surah"],
-      "downloadUrl": ""
     },
     {
       "id": "movie-000",
