@@ -73,7 +73,7 @@
       "title": "Movie Three",
       "description": "Third movie",
       "category": "Adventure",
-      "thumbnail": "https://example.com/poster3.jpg",
+      "thumbnail": "https://scontent.fdac184-1.fna.fbcdn.net/v/t1.15752-9/903421873_2422080405202448_5502832818505832765_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=9f807c&_nc_ohc=nL7ESl4yRTYQ7kNvwGDi4IO&_nc_oc=AdqesP1sHOPI5cyGVweKy0_ikhhLr6M1kkquB1cSgO1RM3XLKYLkDfHNtMQ95W6SvJM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fdac184-1.fna&_nc_ss=7a22e&oh=03_Q7cD6wGB3JF57LALQO3TKyfxzcaJ3aUhGO_aEVVy79xo-04-MQ&oe=6B1CE553",
       "url": "https://example.com/movie3.mpd",
       "type": "dash",
       "duration": "02:10:00",
